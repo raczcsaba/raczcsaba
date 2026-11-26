@@ -14,11 +14,11 @@ Software developer in **Budapest, Hungary**. I build things end to end: web fron
 
 #### Tech I work with
 
-**Languages:** TypeScript, JavaScript, Python, C#, Dart, SQL
-**Web:** Angular, Node.js / Express, Strapi, HTML, SCSS, Tailwind
-**Backend & data:** REST APIs, scrapers and ETL, scheduling, GTFS / routing
-**ML:** MLX, model fine-tuning, speech recognition, LLM integration (Claude API)
-**Infra:** Docker, Proxmox, Linux, GitHub Actions, Cloudflare, Home Assistant
-**Testing:** pytest, Selenium
+- **Languages:** TypeScript, JavaScript, Python, C#, Dart, SQL
+- **Web:** Angular, Node.js / Express, Strapi, HTML, SCSS, Tailwind
+- **Backend & data:** REST APIs, scrapers and ETL, scheduling, GTFS / routing
+- **ML:** MLX, model fine-tuning, speech recognition, LLM integration (Claude API)
+- **Infra:** Docker, Proxmox, Linux, GitHub Actions, Cloudflare, Home Assistant
+- **Testing:** pytest, Selenium
 
 <sub>Older learning projects (2021–2024) are archived further down the repository list.</sub>
